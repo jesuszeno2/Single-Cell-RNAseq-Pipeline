@@ -29,6 +29,8 @@ Emacs: https://www.gnu.org/software/emacs/manual/html_node/emacs/index.html
 
 OSC: https://www.osc.edu/resources/technical_support/supercomputers/owens
 
+For Reference on how to use OSC cluster refer to this link: https://github.com/Stardust64/OSC_Basic_use_tutorial
+
 Trimmomatic: http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/TrimmomaticManual_V0.32.pdf
 
 http://www.usadellab.org/cms/?page=trimmomatic

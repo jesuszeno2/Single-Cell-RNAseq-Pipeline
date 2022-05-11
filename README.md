@@ -1,6 +1,9 @@
 # Single Cell RNAseq Tutorial
 Author: Jesus Zeno
 
+# Quick Note:
+This repository will be updated in the coming weeks to showcase a more robust data set. Currently, this only shows a proof of concept. Going forward, [this other repository](https://github.com/King-Laboratory/Single-Cell-RNAseq-Pipeline) will be used as a proof of concept. 
+
 # Overview:
 The purpose of this tutorial is to help users familiarize themselves with processing raw single cell RNAseq data with Seurat. These workflows will start from FastQ files and end with visualization to assign cell type identity to clusters.
 ![Overall Workflow for Single Cell RNAseq](Workflow/SingleCellRNAseqWorkflow.png)
